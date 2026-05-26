@@ -6,7 +6,7 @@ version: 15
 push: ""
 account:
   #登入账号只需要修改cookie就行了
-  cookie: ""
+  cookie: "_MHYUUID=dd709644-6406-4d80-b17f-6af69b25174c; DEVICEFP_SEED_ID=26d56c4dacb9471b; DEVICEFP_SEED_TIME=1779800807484; DEVICEFP=38d818ca13494; MIHOYO_LOGIN_PLATFORM_LIFECYCLE_ID=24d6d3479e; account_mid_v2=0ptt0k6i75_mhy; account_id_v2=350826086; ltmid_v2=0ptt0k6i75_mhy; ltuid_v2=350826086; cookie_token=H15uUVcBNyGHtGavOm8QMDg6h7JKWQf5OCHWKQNE; account_id=350826086; ltoken=YPbfrVdhugRm2vXQLrrIkG367ZQdRiFA9e4ZrcMg; ltuid=350826086"
   stuid: ""
   stoken: ""
   mid: ""
